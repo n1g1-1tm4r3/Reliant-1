@@ -1,2 +1,10 @@
 # Reliant
-A batch file menu, with features that can help people using Windows computers, its useful when using admin privileges on a Windows machine. Updates will be posted every few days.
+A batch file menu full of administrative tools to help experience with a Windows machine. Updates will be posted frequently.
+
+Downloads:
+
+Reliant 1.2.0: https://github.com/1205-bit/Reliant/raw/master/rel-1.2.0.zip
+
+Wiki: https://github.com/1205-bit/Reliant/Wiki
+
+Main Page: https://github.com/1205-bit/Reliant
