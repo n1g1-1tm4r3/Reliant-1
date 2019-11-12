@@ -1,5 +1,5 @@
 # Reliant
-A batch file menu full of administrative tools to help experience with a Windows machine. Updates will be posted frequently.
+A batch file menu full of administrative tools to help your experience with a Windows machine. Updates will be posted frequently.
 
 Downloads:
 
