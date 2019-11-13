@@ -5,6 +5,6 @@ Downloads:
 
 Reliant 1.2.0: https://github.com/1205-bit/Reliant/raw/master/rel-1.2.0.zip
 
-Wiki: https://github.com/1205-bit/Reliant/Wiki
+Wiki: https://github.com/1205-bit/Reliant/wiki
 
 Main Page: https://github.com/1205-bit/Reliant
